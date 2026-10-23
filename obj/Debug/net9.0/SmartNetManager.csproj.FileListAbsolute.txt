@@ -1,0 +1,14 @@
+C:\Users\rosar\source\repos\smartnetmanager\bin\Debug\net9.0\SmartNetManager.exe
+C:\Users\rosar\source\repos\smartnetmanager\bin\Debug\net9.0\SmartNetManager.deps.json
+C:\Users\rosar\source\repos\smartnetmanager\bin\Debug\net9.0\SmartNetManager.runtimeconfig.json
+C:\Users\rosar\source\repos\smartnetmanager\bin\Debug\net9.0\SmartNetManager.dll
+C:\Users\rosar\source\repos\smartnetmanager\bin\Debug\net9.0\SmartNetManager.pdb
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.AssemblyInfoInputs.cache
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.AssemblyInfo.cs
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.csproj.CoreCompileInputs.cache
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.dll
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\refint\SmartNetManager.dll
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.pdb
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\SmartNetManager.genruntimeconfig.cache
+C:\Users\rosar\source\repos\smartnetmanager\obj\Debug\net9.0\ref\SmartNetManager.dll
